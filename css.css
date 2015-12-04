@@ -1,0 +1,12 @@
+label{
+	display: block;
+	cursor: pointer;
+}
+
+input + label{
+	display: inline;
+}
+
+button{
+	cursor: pointer;
+}
